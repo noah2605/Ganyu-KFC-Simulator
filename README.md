@@ -1,0 +1,2 @@
+# Ganyu-KFC-Simulator
+shitpostz
