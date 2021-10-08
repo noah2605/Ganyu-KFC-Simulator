@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ganyu KFC Simulator", "Ganyu KFC Simulator\Ganyu KFC Simulator.csproj", "{CCBE7D00-6AF6-41F0-97FD-04AA31043C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBE7D00-6AF6-41F0-97FD-04AA31043C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBE7D00-6AF6-41F0-97FD-04AA31043C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBE7D00-6AF6-41F0-97FD-04AA31043C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBE7D00-6AF6-41F0-97FD-04AA31043C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA0C93F-21EC-4B0A-9809-764BFF2F8E41}
+	EndGlobalSection
+EndGlobal

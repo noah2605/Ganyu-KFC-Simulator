@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Ganyu_KFC_Simulator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Sprites\a.png" />
+    <None Remove="Assets\Sprites\b.png" />
+    <None Remove="Assets\Sprites\c.png" />
+    <None Remove="Assets\Sprites\d.png" />
+    <None Remove="Assets\Sprites\ganyuBIG.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\Sprites\a.png" />
+    <EmbeddedResource Include="Assets\Sprites\b.png" />
+    <EmbeddedResource Include="Assets\Sprites\c.png" />
+    <EmbeddedResource Include="Assets\Sprites\d.png" />
+    <EmbeddedResource Include="Assets\Sprites\ganyuBIG.png" />
+  </ItemGroup>
+
+</Project>
